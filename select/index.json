@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ROBODROPS!! (Cover)",
+  "base_artist": "AI♡RARA",
+  "createdAt": "2026-02-07T06:56:08.801278Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROBODROPS!! (Cover)",
+      "artist": "AI♡RARA",
+      "has_synced": false,
+      "path": "select/pl_01_ROBODROPS!!_(Cover)_AI♡RARA.txt"
+    }
+  ]
+}
